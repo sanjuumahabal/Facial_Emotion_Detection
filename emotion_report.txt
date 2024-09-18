@@ -1,0 +1,9 @@
+Total Session Duration: 29.71 seconds
+Emotion Percentages:
+Angry: 12.26%
+Disgusted: 0.00%
+Fearful: 14.15%
+Happy: 53.77%
+Neutral: 5.66%
+Sad: 0.00%
+Surprised: 14.15%
